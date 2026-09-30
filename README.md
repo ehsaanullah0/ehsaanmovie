@@ -1,5 +1,5 @@
 # 🎬 EHSAAN MOVIE
-
+## ❌UNDER DEVELOPMENT.❌
 > **Your personal movie & series hub.**
 > Discover, organize, track, and enjoy your watchlist — all in one beautiful place.
 
