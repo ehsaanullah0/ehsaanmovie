@@ -41,13 +41,12 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 <img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/e7008a15-1c96-491d-8af4-33431e15f44f" />
 
-<img width="1366" height="488" alt="image" src="https://github.com/user-attachments/assets/7aca3569-1d85-4239-9c87-a39c25a9dc49" />
+<img width="1366" height="542" alt="image" src="https://github.com/user-attachments/assets/a2e7b9b5-e3e3-4d2a-a58b-0a3637d03e27" />
 
-<img width="1364" height="581" alt="image" src="https://github.com/user-attachments/assets/cbaf9e6d-ae62-49c6-9f45-27a37204556b" />
+<img width="1366" height="575" alt="image" src="https://github.com/user-attachments/assets/93e7d9cc-3cf5-40a5-a31d-b0caaa6588d2" />
 
 <img width="1366" height="741" alt="image" src="https://github.com/user-attachments/assets/299aaf6e-9a76-40b7-b4a0-9dc16da83021" />
 
-![Uploading image.png…]()
 
 ---
 
