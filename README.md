@@ -66,8 +66,30 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 ---
 
-### 👨‍💻 Made by EHSAAN
+
+
+<div align="center">
+
+## MADE BY EHSAAN ULLAH
 
 **Make useful things. Make them feel good to use.**
 
 ⭐ If you like the project, consider giving it a star.
+
+**EHSAAN ULLAH**
+
+<a href="mailto:worsmon@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://github.com/ehsaanullah0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://ehsaan.odoo.com/">
+  <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+
+<sub>Built with curiosity, too many tabs, and the occasional “let's see what happens.”</sub>
+
+</div>
