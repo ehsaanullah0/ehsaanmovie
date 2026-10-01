@@ -41,7 +41,7 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 ### 🛠️ Built With
 
-`HTML` · `CSS` · `JavaScript` · `TMDB API` · `Local Storage`
+`HTML` · `CSS` · `JavaScript` · `TMDB API` · `Local Storage` . `Vite` . `React` . `Typescript`
 
 ---
 
