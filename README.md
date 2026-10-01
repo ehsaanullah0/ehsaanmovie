@@ -1,9 +1,25 @@
-# 🎬 EHSAAN MOVIE
-## ❌UNDER DEVELOPMENT.❌
-> **Your personal movie & series hub.**
-> Discover, organize, track, and enjoy your watchlist — all in one beautiful place.
+<div align="center">
 
-![EHSAAN MOVIE](https://img.shields.io/badge/EHSAAN-MOVIE-E7AC08?style=for-the-badge)
+<img width="180" height="180" alt="EHSAAN MOVIE" src="https://github.com/user-attachments/assets/a5eff738-0c00-427a-a428-ed95e6b87486" />
+
+# 🎬 EHSAAN MOVIE
+
+### Your personal movie & series hub.
+
+**🚧 Under Development**
+
+<br>
+
+[![Status](https://img.shields.io/badge/Status-Under%20Development-E7AC08?style=for-the-badge)](https://github.com/ehsaanullah0)
+[![Made with](https://img.shields.io/badge/Made%20with-EHSAAN-282B21?style=for-the-badge)](https://github.com/ehsaanullah0)
+
+# A beautiful, minimal, and personal space to discover, organize, and manage your movies & series.
+# 🔗 [**ehsaanmovie.ai.studio**](https://ehsaanmovie.ai.studio/)
+
+
+</div>
+
+
 
 ### ✦ What it does
 
