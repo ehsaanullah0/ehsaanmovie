@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="180" height="180" alt="EHSAAN MOVIE" src="https://github.com/user-attachments/assets/a5eff738-0c00-427a-a428-ed95e6b87486" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/8adeeae2-3268-4930-b605-4031e451b263" />
 
 # 🎬 EHSAAN MOVIE
 
