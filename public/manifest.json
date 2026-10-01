@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "EHSAAN MOVIE",
+  "short_name": "EHSAAN MOVIE",
+  "description": "Personal movie & series collection hub to save, organize, and track watching progress.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#231814",
+  "theme_color": "#231814",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

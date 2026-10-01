@@ -1,0 +1,51 @@
+import React from 'react';
+
+interface BrandClapperboardLogoProps {
+  className?: string;
+  size?: number;
+  variant?: 'app-icon' | 'badge' | 'minimal';
+}
+
+export const BrandClapperboardLogo: React.FC<BrandClapperboardLogoProps> = ({
+  className = '',
+  size = 36,
+}) => {
+  return (
+    <div
+      style={{ width: size, height: size }}
+      className={`relative shrink-0 flex items-center justify-center rounded-xl overflow-hidden select-none transition-transform shadow-xs ${className}`}
+    >
+      <svg
+        viewBox="0 0 512 512"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        className="w-full h-full"
+      >
+        {/* Brand Camel Squircle Background (#caa282) */}
+        <rect width="512" height="512" rx="140" fill="#caa282" />
+
+        {/* Clapperboard Slats, Main Body & Cinema Sparkle Star in Dark Roasted Espresso (#1c120c) */}
+        <g fill="#1c120c">
+          {/* Top Clapperboard Slats: 3 Slanted Diagonal Stripes Angled Upwards at ~26 degrees */}
+          {/* Stripe 1 (Leftmost Hinge Segment) */}
+          <path d="M 160 234 C 151 234 144 227 145 218 C 146 213 148 208 152 203 L 171 180 C 176 174 183 171 190 171 C 199 171 205 178 204 187 L 184 219 C 180 228 170 234 160 234 Z" />
+
+          {/* Stripe 2 (Middle Parallel Slat) */}
+          <path d="M 210 210 C 201 210 195 203 196 195 C 196 190 198 185 203 180 L 227 151 C 232 145 239 142 247 142 C 256 142 263 149 261 158 L 238 194 C 233 204 222 210 210 210 Z" />
+
+          {/* Stripe 3 (Right Tip Slat) */}
+          <path d="M 270 183 C 261 183 255 176 256 167 C 256 162 259 157 264 151 L 298 116 C 304 110 312 108 320 109 C 331 111 338 121 334 132 L 305 168 C 298 178 285 183 270 183 Z" />
+
+          {/* Lower Clapperboard Main Body */}
+          <path d="M 174 224 C 158 224 151 235 151 250 L 151 324 C 151 342 162 355 178 358 L 312 374 C 330 376 343 363 343 344 L 343 249 C 343 234 331 222 316 222 L 174 224 Z" />
+
+          {/* 4-Point Cinema Sparkle Star */}
+          <path d="M 364 172 C 364 191 375 204 394 204 C 375 204 364 217 364 236 C 364 217 353 204 334 204 C 353 204 364 191 364 172 Z" />
+        </g>
+
+        {/* Centered Cutout Play Triangle (Matches #caa282 Camel Tone) */}
+        <path d="M 230 263 C 226 260 224 262 224 267 L 224 330 C 224 335 226 337 230 334 L 285 302 C 289 300 289 297 285 295 Z" fill="#caa282" />
+      </svg>
+    </div>
+  );
+};

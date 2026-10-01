@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-sans: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+    color-scheme: light;
+    
+    /* Theme Variables (Polished Airy Crisp Canvas & Elevated Card Surfaces) */
+    --color-bg: #f8f9fa;
+    --color-card: #ffffff;
+    --color-button: #09090b;
+    --color-accent: #d97706;
+  }
+
+  :root.dark, .dark {
+    color-scheme: dark;
+    
+    /* Theme Variables (Deep Obsidian Espresso - 10% Darker Base) */
+    --color-bg: #0f0a07;
+    --color-card: #160f0b;
+    --color-button: #faf6f2;
+    --color-accent: #ea9e78;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    min-height: 100vh;
+    overflow-x: hidden;
+    letter-spacing: -0.01em;
+    line-height: 1.5;
+  }
+
+  /* Headings & Section Title Weight (800 Rounded) */
+  h1, h2, h3, h4, .font-heading {
+    font-family: var(--font-sans);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+
+  /* Custom subtle scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.15);
+    border-radius: 9999px;
+  }
+
+  :is(.dark *) ::-webkit-scrollbar-thumb,
+  .dark ::-webkit-scrollbar-thumb {
+    background: rgba(120, 95, 80, 0.25);
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.3);
+  }
+
+  :is(.dark *) ::-webkit-scrollbar-thumb:hover,
+  .dark ::-webkit-scrollbar-thumb:hover {
+    background: rgba(120, 95, 80, 0.45);
+  }
+}

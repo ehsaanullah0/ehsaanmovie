@@ -1,0 +1,8 @@
+{
+  "name": "EHSAAN MOVIE",
+  "description": "Personal movie and TV-series management hub to save, organize, track watching progress, and curate custom lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
