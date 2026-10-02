@@ -27,7 +27,7 @@
 <br>
 
 # A beautiful, minimal, and personal space to discover, organize, and manage your movies & series.
-# 🔗 [**ehsaanmovie.ai.studio**](https://ehsaanmovie.ai.studio/)
+#  [**ehsaanmovie.ai.studio**](https://ehsaanmovie.ai.studio/)
 
 
 </div>
