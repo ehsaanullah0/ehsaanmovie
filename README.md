@@ -4,7 +4,7 @@
 
 # 🎬 EHSAAN MOVIE
 
-### Your personal movie & series hub.
+### Your personal movie & series hub. Completely Open Source
 
 ## **In Development Stage**
 
