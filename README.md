@@ -102,7 +102,7 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 </p>
 
 
-**EHSAAN ULLAH**
+## **EHSAAN ULLAH**
 
 <a href="mailto:worsmon@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
