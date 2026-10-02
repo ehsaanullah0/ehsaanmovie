@@ -6,8 +6,13 @@
 
 ### Your personal movie & series hub.
 
-**🚧 Under Development**
-
+## ❌**Under Development**❌
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LicenceGPLv3/licencegplv32.svg">
+</p>
 <br>
 
 [![Status](https://img.shields.io/badge/Status-Under%20Development-E7AC08?style=for-the-badge)](https://github.com/ehsaanullah0)
@@ -19,7 +24,7 @@
 
 </div>
 
-
+## I am using the google cloud console to publish this app as a web-interface
 
 ### ✦ What it does
 
@@ -66,11 +71,12 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 ---
 
-
+## THIS PROJECT IS FOR PERSONAL USE ONLY IT DOES NOT STORE ANY DATABASE OF MOVIES AND POSTERS. IT USES TMDB API BUT NOT ENDORSED AND CERTIFY BY TMDB.
 
 <div align="center">
 
 ## MADE BY EHSAAN ULLAH
+<img width="180" height="180" src="https://github.com/user-attachments/assets/cfcab90d-cbc8-4236-bd33-b52977e7d39e" />
 
 **Make useful things. Make them feel good to use.**
 
