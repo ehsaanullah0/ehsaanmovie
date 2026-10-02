@@ -81,6 +81,50 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 <img width="1366" height="741" alt="image" src="https://github.com/user-attachments/assets/299aaf6e-9a76-40b7-b4a0-9dc16da83021" />
 
+---
+## 🗂️ Data Management
+
+EHSAAN Movie keeps **personal user data** separate from **TMDB artwork**, so your library stays lightweight while giving you control over offline artwork.
+
+```text
+EHSAAN MOVIE
+│
+├── 👤 PERSONAL USER DATA
+│   │
+│   ├── Watchlist & watched status
+│   ├── Episode progress & seasonal checkmarks
+│   ├── Star ratings & personal notes
+│   ├── Custom lists & activities
+│   └── Preferences & custom genre palettes
+│
+│   → Stored locally in browser localStorage
+│   → Uses versioned storage keys
+│   → Never stores base64 images or image blobs
+│   → Compact JSON export for backup
+│
+└── 🎨 TMDB ARTWORK
+    │
+    ├── 🌐 ONLINE MODE · Default
+    │   │
+    │   ├── Posters & backdrops load from TMDB when needed
+    │   ├── No intentional permanent image archive
+    │   └── Helps prevent uncontrolled storage growth
+    │
+    └── 📦 OFFLINE MODE
+        │
+        ├── Artwork stored in a dedicated browser cache
+        ├── "Download Artwork for My Library"
+        │   saves artwork for your library
+        ├── Automatic cache capacity limits
+        └── LRU-based trimming removes older unused artwork
+```
+
+> **Privacy first:** Your personal library data stays in your browser. Artwork caching is handled separately, so image data does not become part of your personal-data backup.
+
+### 💾 Backup
+
+Your personal data can be exported as a **compact JSON backup**.
+Artwork is **not included** in the JSON export, keeping backups small and portable.
 
 ---
 
