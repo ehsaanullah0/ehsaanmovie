@@ -50,6 +50,11 @@
 
 EHSAAN MOVIE is built as a personal entertainment hub — combining a clean interface with the features you actually need to manage your movie and series collection.
 
+## 💡 TIPS
+
+- **Start with shortcuts** — Assign keyboard shortcuts to pages for smooth, quick navigation.
+- **Make it yours** — Create custom genre themes that match your personal taste.
+- **Keep it clean** — De-clutter your Movie Preview and Settings pages using the built-in editing tools.
 ---
 
 ### 🛠️ Built With
@@ -60,9 +65,9 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 ## 🎥 Preview
 
-<img width="1124" height="675" alt="image" src="https://github.com/user-attachments/assets/79dbfe7a-f1e8-4e78-9a7e-904b84c396bb" />
+<img width="1292" height="684" alt="image" src="https://github.com/user-attachments/assets/bb0913a7-864a-424c-998f-406379f7561f" />
 
-<img width="1365" height="615" alt="image" src="https://github.com/user-attachments/assets/d3d465f6-5e0f-4d2e-8b1a-eff7f5ea609b" />
+<img width="1362" height="642" alt="image" src="https://github.com/user-attachments/assets/67b09696-9899-4509-bad7-b46a8bc9beae" />
 
 <img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/171492be-b2c4-4878-a71c-fcdde32132c1" />
 
