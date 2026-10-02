@@ -84,11 +84,18 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 <div align="center">
 
 ## MADE BY EHSAAN ULLAH
-<img width="180" height="180" src="https://github.com/user-attachments/assets/cfcab90d-cbc8-4236-bd33-b52977e7d39e" />
-
 **Make useful things. Make them feel good to use.**
 
-⭐ If you like the project, consider giving it a star.
+# 💛 SUPPORT THE DEVELOPMENT
+## [ CLICK HERE TO PAY DIRECTLY.](https://ehsaan.odoo.com/about-us)
+
+<img width="250" height="250" alt="ehsaan-qr-1024x1024 (1)" src="https://github.com/user-attachments/assets/7139284e-c5e5-424a-bd52-aa71ccc392a8" />
+</p>
+
+<p align="center">
+  <sub>If you find something useful here, a ⭐ is always appreciated.</sub>
+</p>
+
 
 **EHSAAN ULLAH**
 
