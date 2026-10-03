@@ -65,23 +65,37 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 ## 🎥 Preview
 
-<img width="1292" height="684" alt="image" src="https://github.com/user-attachments/assets/bb0913a7-864a-424c-998f-406379f7561f" />
-
 <img width="1362" height="642" alt="image" src="https://github.com/user-attachments/assets/67b09696-9899-4509-bad7-b46a8bc9beae" />
+
+<img width="1365" height="743" alt="image" src="https://github.com/user-attachments/assets/5b269f73-12b9-49fa-a3c6-9c20bb6f0b4e" />
+
+<img width="1366" height="542" alt="image" src="https://github.com/user-attachments/assets/a2e7b9b5-e3e3-4d2a-a58b-0a3637d03e27" />
+
+<details>
+<summary>View More Screenshots</summary>
+
+<img width="1084" height="630" alt="image" src="https://github.com/user-attachments/assets/0be3eea2-9d80-4acb-84a6-bfd4ccc4cdfc" />
 
 <img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/171492be-b2c4-4878-a71c-fcdde32132c1" />
 
 <img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/fc10ddb1-0d12-4e8f-babb-e7a3821be4b9" />
 
-<img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/e7008a15-1c96-491d-8af4-33431e15f44f" />
-
-<img width="1366" height="542" alt="image" src="https://github.com/user-attachments/assets/a2e7b9b5-e3e3-4d2a-a58b-0a3637d03e27" />
-
 <img width="1366" height="575" alt="image" src="https://github.com/user-attachments/assets/93e7d9cc-3cf5-40a5-a31d-b0caaa6588d2" />
 
 <img width="1366" height="741" alt="image" src="https://github.com/user-attachments/assets/299aaf6e-9a76-40b7-b4a0-9dc16da83021" />
 
+<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/7fa24011-8b39-46e7-ba69-8ce89ed18dcf" />
+
+<img width="1366" height="543" alt="image" src="https://github.com/user-attachments/assets/9be196a5-4741-4661-8b6d-1f9b581b45e9" />
+
+<img width="1366" height="701" alt="image" src="https://github.com/user-attachments/assets/af53afc7-932b-4b9c-8906-944e8cb0d5be" />
+
+<img width="1298" height="728" alt="image" src="https://github.com/user-attachments/assets/0ee180c6-06bc-449e-ae5d-10f38ecb519b" />
+
+</details>
+
 ---
+
 ## 🗂️ Data Management
 
 EHSAAN Movie keeps **personal user data** separate from **TMDB artwork**, so your library stays lightweight while giving you control over offline artwork.
