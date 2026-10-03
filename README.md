@@ -8,6 +8,14 @@
 
 ## **In Development Stage**
 
+<a href="https://www.youtube.com/watch?v=gPZd-t4EcNs" target="_blank">
+  <img
+    width="200"
+    src="https://github.com/user-attachments/assets/bf633cc6-a8ed-4fca-b7b1-1aef2df991d3"
+    alt="Watch EHSAAN MOVIE Demo Video"
+  />
+</a>
+
 <p>
   <a href="https://ehsaancolour.ai.studio/" target="_blank">
     <img height="70" src="https://github.com/user-attachments/assets/102323a5-e5f2-4174-8a25-7be76d1ef7d3" />
