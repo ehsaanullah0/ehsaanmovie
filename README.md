@@ -1,12 +1,14 @@
+# 🎈I made a better ui webapp has same feature as this project [EHSAAN PLAY](https://ehsaanplay.ai.studio/)
+
 <div align="center">
 
 <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/8adeeae2-3268-4930-b605-4031e451b263" />
 
 # 🎬 EHSAAN MOVIE
 
-### Your personal movie & series hub. Completely Open Source
+# A beautiful, minimal, and personal space to discover, organize, and manage your movies & series.
+#  [**ehsaanmovie.ai.studio**](https://ehsaanmovie.ai.studio/)
 
-## **In Development Stage**
 
 <a href="https://www.youtube.com/watch?v=gPZd-t4EcNs" target="_blank">
   <img
@@ -33,9 +35,6 @@
    <img height="70" src="https://github.com/user-attachments/assets/de9dd1ed-3480-442f-af74-62c3924dd747" />
 </p>
 <br>
-
-# A beautiful, minimal, and personal space to discover, organize, and manage your movies & series.
-#  [**ehsaanmovie.ai.studio**](https://ehsaanmovie.ai.studio/)
 
 
 </div>
@@ -185,3 +184,5 @@ Artwork is **not included** in the JSON export, keeping backups small and portab
 <sub>Built with curiosity, too many tabs, and the occasional “let's see what happens.”</sub>
 
 </div>
+
+## THE DEVELOPMENT IS SHIFTED TOWARDS EHSAAN PLAY VISIT [GITHUB REPOISITERY](https://github.com/ehsaanullah0/ehsaanplay)
