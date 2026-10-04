@@ -1,4 +1,4 @@
-# 🎈I made a better ui webapp has same feature as this project [EHSAAN PLAY](https://ehsaanplay.ai.studio/)
+# 🎈I made a better ui webapp has same feature as this project [EHSAAN PLAY](https://ehsaanplay.ai.studio/) | [GITHUB-REPO](https://github.com/ehsaanullah0/ehsaanplay)
 
 <div align="center">
 
