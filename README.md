@@ -78,15 +78,15 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 
 <img width="1366" height="542" alt="image" src="https://github.com/user-attachments/assets/a2e7b9b5-e3e3-4d2a-a58b-0a3637d03e27" />
 
-<details>
-<summary>View More Screenshots</summary>
-
 <img width="1084" height="630" alt="image" src="https://github.com/user-attachments/assets/0be3eea2-9d80-4acb-84a6-bfd4ccc4cdfc" />
 
 <img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/171492be-b2c4-4878-a71c-fcdde32132c1" />
 
 <img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/fc10ddb1-0d12-4e8f-babb-e7a3821be4b9" />
 
+<details>
+<summary>View More Screenshots</summary>
+  
 <img width="1366" height="575" alt="image" src="https://github.com/user-attachments/assets/93e7d9cc-3cf5-40a5-a31d-b0caaa6588d2" />
 
 <img width="1366" height="741" alt="image" src="https://github.com/user-attachments/assets/299aaf6e-9a76-40b7-b4a0-9dc16da83021" />
@@ -102,43 +102,6 @@ EHSAAN MOVIE is built as a personal entertainment hub — combining a clean inte
 </details>
 
 ---
-
-## 🗂️ Data Management
-
-EHSAAN Movie keeps **personal user data** separate from **TMDB artwork**, so your library stays lightweight while giving you control over offline artwork.
-
-```text
-EHSAAN MOVIE
-│
-├── 👤 PERSONAL USER DATA
-│   │
-│   ├── Watchlist & watched status
-│   ├── Episode progress & seasonal checkmarks
-│   ├── Star ratings & personal notes
-│   ├── Custom lists & activities
-│   └── Preferences & custom genre palettes
-│
-│   → Stored locally in browser localStorage
-│   → Uses versioned storage keys
-│   → Never stores base64 images or image blobs
-│   → Compact JSON export for backup
-│
-└── 🎨 TMDB ARTWORK
-    │
-    ├── 🌐 ONLINE MODE · Default
-    │   │
-    │   ├── Posters & backdrops load from TMDB when needed
-    │   ├── No intentional permanent image archive
-    │   └── Helps prevent uncontrolled storage growth
-    │
-    └── 📦 OFFLINE MODE
-        │
-        ├── Artwork stored in a dedicated browser cache
-        ├── "Download Artwork for My Library"
-        │   saves artwork for your library
-        ├── Automatic cache capacity limits
-        └── LRU-based trimming removes older unused artwork
-```
 
 > **Privacy first:** Your personal library data stays in your browser. Artwork caching is handled separately, so image data does not become part of your personal-data backup.
 
@@ -185,4 +148,4 @@ Artwork is **not included** in the JSON export, keeping backups small and portab
 
 </div>
 
-## THE DEVELOPMENT IS SHIFTED TOWARDS EHSAAN PLAY VISIT [GITHUB REPOISITERY](https://github.com/ehsaanullah0/ehsaanplay)
+## 🏉THE DEVELOPMENT IS SHIFTED TOWARDS EHSAAN PLAY VISIT [GITHUB REPOISITERY](https://github.com/ehsaanullah0/ehsaanplay)
